@@ -11,7 +11,7 @@ Environment=CHARLES_POSTGRES_PASSWORD=
 # Include the scheme.
 # Environment=CHARLES_ELASTICSEARCH_URI=https://vpc-us-west-2-elasticsearch-test-n5tf33nrpf46gnfkghcnlsvn6m.us-west-2.es.amazonaws.com
 Environment=CHARLES_ELASTICSEARCH_URI=
-Environment=CHARLES_BASICAUTH_SECRET=
+Environment=CHARLES_AUTH_SECRET=
 
 User=<owner of git repo>
 Group=<group of git repo>
